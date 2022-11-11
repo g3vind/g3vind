@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @g3vind
+- 👋 Hi, I’m GOVIND
 
 - 📫 Reach me at : g3vind@gmail.com
 
