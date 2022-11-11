@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @g3vind
-- 👀 I’m interested in Software & Web Developement
-- 🌱 I’m currently learning JavaScript
+
 - 📫 Reach me at : g3vind@gmail.com
 
 <!---
