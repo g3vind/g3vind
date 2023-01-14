@@ -6,7 +6,7 @@ Web Developer, Coding Enthusiast
 
 *   🌍  I'm based in Vellore, Tamilnadu, India
 *   ✉️  You can contact me at [g3vind@gmail.com](mailto:g3vind@gmail.com)
-*   🧠  I'm learning React Currently
+
   
  ### Skills 
 <p align="left">
