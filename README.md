@@ -12,7 +12,7 @@
 - 📫 How to reach me **g3vind@gmail.com**
 
 - ⚡ Fun fact **I use tabs over spaces**
-<h2> My Portfolio Website : <em>https://govind-kumar.netlify.app/</em></h2>
+<h3> My Portfolio Website : https://govind-kumar.netlify.app/</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
