@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 📫 How to reach me **g3vind@gmail.com**
+- 📫 Reach me at **g3vind@gmail.com**
 
 - ⚡ Fun fact **I use tabs over spaces**
 <h3> My Portfolio Website : https://govind-kumar.netlify.app/</h3>
