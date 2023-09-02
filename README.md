@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Namaste Food](https://namaste-food-app.netlify.app/)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Redux**
 
 - 📫 How to reach me **g3vind@gmail.com**
 
