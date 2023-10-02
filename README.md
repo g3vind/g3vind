@@ -10,6 +10,9 @@ A passionate frontend developer from India.
 **Languages and Tools:**
 
 <div style="display: flex; flex-direction: row; align-items: center;">
+    <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -34,9 +37,7 @@ A passionate frontend developer from India.
   <a href="https://www.mongodb.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
+
 </div>
 
 
