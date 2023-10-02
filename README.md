@@ -7,6 +7,6 @@ A passionate frontend developer from India.
 - 📫 How to reach me: [g3vind@gmail.com](mailto:g3vind@gmail.com)
 
 Connect with me:
-- [GitHub](https://github.com/g3vind)  [LinkedIn](https://www.linkedin.com/in/g3vind)  [Twitter](https://twitter.com/g3vind)
+- [GitHub](https://github.com/g3vind) | [LinkedIn](https://www.linkedin.com/in/g3vind) | [Twitter](https://twitter.com/g3vind)
 
 Let's code and build amazing things together! 💻✨
