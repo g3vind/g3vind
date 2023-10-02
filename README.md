@@ -9,15 +9,15 @@ A passionate frontend developer from India.
 
 **Languages and Tools:**
 
-- [HTML5](https://www.w3.org/html/) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- [CSS3](https://www.w3schools.com/css/) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- [Bootstrap](https://getbootstrap.com) ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- [Node.js](https://nodejs.org) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- [React](https://reactjs.org/) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- [Express.js](https://expressjs.com) ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-- [MongoDB](https://www.mongodb.com/) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- [Java](https://www.java.com) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+- [HTML5](https://www.w3.org/html/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/>
+- [CSS3](https://www.w3schools.com/css/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/>
+- [Bootstrap](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/>
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
+- [Node.js](https://nodejs.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20"/>
+- [React](https://reactjs.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/>
+- [Express.js](https://expressjs.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="20" height="20"/>
+- [MongoDB](https://www.mongodb.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="20" height="20"/>
+- [Java](https://www.java.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/>
 
 Connect with me:
 - [GitHub](https://github.com/g3vind) | [LinkedIn](https://www.linkedin.com/in/g3vind) | [Twitter](https://twitter.com/g3vind)
