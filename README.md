@@ -6,7 +6,7 @@ A passionate frontend developer from India.
 - 👨‍💻 All of my projects are available at [govind-kumar.netlify.app](https://govind-kumar.netlify.app/)
 - 📫 How to reach me: [g3vind@gmail.com](mailto:g3vind@gmail.com)
 
-**Languages and Tools:**
+**Languages:**
 
 <div style="display: flex; flex-direction: row; align-items: center;">
     <a href="https://www.java.com">
