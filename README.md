@@ -39,8 +39,7 @@ A passionate frontend developer from India.
 
 </div>
 
-
 Connect with me:
- [GitHub](https://github.com/g3vind) | [LinkedIn](https://www.linkedin.com/in/g3vind) | [Twitter](https://twitter.com/g3vind)
+ [LinkedIn](https://www.linkedin.com/in/g3vind) | [Twitter](https://twitter.com/g3vind) | 📷 [Instagram](https://www.instagram.com/govindxingh/)
 
 Let's code and build amazing things together! 💻✨
