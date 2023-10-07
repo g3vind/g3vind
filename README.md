@@ -22,5 +22,5 @@ A passionate frontend developer from India.
 
 <!-- Animated GIF in the second half -->
 <div align="center">
-  <img src="https://link-to-your-animated-gif.gif" alt="Animated GIF" width="400">
+ <a href="https://storyset.com/web">Web illustrations by Storyset</a>
 </div>
