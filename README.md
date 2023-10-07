@@ -42,7 +42,7 @@ A passionate frontend developer from India.
 **Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/g3vind) | [Twitter](https://twitter.com/g3vind) | [Instagram](https://www.instagram.com/govindxingh/)
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3vind&layout=compact&theme=" alt="g3vind" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3vind&layout=compact&theme=" alt="g3vind" />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3vind&theme=" alt="g3vind" /></p>
 <div align="center">
