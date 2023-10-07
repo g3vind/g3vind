@@ -4,16 +4,16 @@
     <h1>Hi there, I'm Govind Kumar 👋</h1>
     <p>A passionate frontend developer from India.</p>
 
-    <ul>
-      <li>🌱 I’m currently learning <strong>ReactJs</strong> and <strong>Redux</strong></li>
-      <li>👨‍💻 All of my projects are available at <a href="https://govind-kumar.netlify.app/">govind-kumar.netlify.app</a></li>
-      <li>📫 How to reach me: <a href="mailto:g3vind@gmail.com">g3vind@gmail.com</a></li>
-    </ul>
+   
+      🌱 I’m currently learning <strong>ReactJs</strong> and <strong>Redux</strong></li>
+      👨‍💻 All of my projects are available at <a href="https://govind-kumar.netlify.app/">govind-kumar.netlify.app</a></li>
+      📫 How to reach me: <a href="mailto:g3vind@gmail.com">g3vind@gmail.com</a></li>
+   
 
-    <h3>Languages:</h3>
+    # Languages:
     <!-- Add your language icons here -->
 
-    <h3>Connect with me:</h3>
+    # Connect with me:
     <!-- Add your social media links here -->
   </div>
 
