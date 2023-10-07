@@ -8,7 +8,7 @@
     <li>👨‍💻 All of my projects are available at <a href="https://govind-kumar.netlify.app/">govind-kumar.netlify.app</a></li>
     <li>📫 How to reach me: <a href="mailto:g3vind@gmail.com">g3vind@gmail.com</a></li>
   </ul>
-
+<img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif""  />
   <h3>Languages:</h3>
   <div style="display: flex; flex-direction: row; align-items: center;">
     <a href="https://www.java.com">
@@ -46,9 +46,7 @@
 </div>
 
 <!-- Right Aligned Section (GIF) -->
-<div style="display: inline-block; width: 49%; text-align: right;">
-  <img alt="Coder GIF" height="200" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-</div>
+
 
 <img src="https://raw.githubusercontent.com/g3vind/g3vind/output/snake.svg" alt="Snake animation" />
 
