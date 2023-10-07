@@ -1,5 +1,5 @@
 <!-- Left Aligned Section (Text Content) -->
-<div style="display: inline-block; width: 49%;">
+<div style="display: inline; width: 49%;">
   <h1>Hi there, I'm Govind Kumar 👋</h1>
   <p>A passionate frontend developer from India.</p>
   
