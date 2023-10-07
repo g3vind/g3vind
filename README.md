@@ -1,4 +1,4 @@
-# Hi there, I'm Govind Kumar 👋
+<h3> Hi there, I'm Govind Kumar 👋</h3>
 <img align="right" height="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 A passionate frontend developer from India.
@@ -27,4 +27,4 @@ A passionate frontend developer from India.
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g3vind&theme=2077" height="180em" />
   </a>
 </div>
-# Let's code and build amazing things together! 💻✨
+
