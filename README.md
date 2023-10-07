@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <!-- Left Half (Text Content) -->
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: left;">
     <h1>Hi there, I'm Govind Kumar 👋</h1>
     <p>A passionate frontend developer from India.</p>
 
