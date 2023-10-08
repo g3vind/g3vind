@@ -4,8 +4,8 @@
 A passionate frontend developer from India.
 
 - 🌱 I’m currently learning **ReactJs** and **Redux**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://g3vind.github.io/portfolio/))
-- 📫 How to reach me: [g3vind@gmail.com](mailto:g3vind@gmail.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://g3vind.github.io/portfolio/)
+- 📫 How to reach me: [My Email](mailto:g3vind@gmail.com)
 
 **Languages:**
 
