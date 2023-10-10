@@ -46,7 +46,7 @@ A passionate frontend developer from India.
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3vind&theme=" alt="g3vind" /></p>
 <div align="center">
-  <a href="https://github.com/g3vind">
+   <a href="https://github.com/g3vind">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g3vind&theme=2077" height="180em" />
   </a>
 </div>
