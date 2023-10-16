@@ -68,6 +68,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </div>
+<h1></h1>
+<!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3vind&layout=compact&theme=" alt="g3vind" /> -->
+<!-- GitHub Streak Stats-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=g3vind&theme=highcontrast&hide_border=true&border_radius=6.6" alt="GitHub Streak" /></a>
+<h1></h1>
+<!-- HTML -->
+<div align="center">
+   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
 
 
 
