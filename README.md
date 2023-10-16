@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Hi there, I'm Govind Kumar 👋</h3>
-    <!-- Your profile image here -->
+    <img src="https://your-image-url-here.jpg" alt="Your Profile Image" />
     <p>A passionate frontend developer from India.</p>
 
     - 🌱 I’m currently learning **ReactJs** and **Redux Toolkit**
