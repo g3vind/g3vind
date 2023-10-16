@@ -4,7 +4,7 @@
 A passionate frontend developer from India.
 
 - 🌱 I’m currently learning **ReactJs** and **Redux Toolkit**   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://govind-kumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://govind-kumar.netlify.app/) 
 - 📫 How to reach me: [My Email](mailto:g3vind@gmail.com)
 
 **Languages:**       
