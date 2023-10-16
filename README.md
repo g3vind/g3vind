@@ -1,5 +1,5 @@
 
-<h1 id="header" align="center"> Hi there, I'm Govind Kumar 👋</h1> 
+<h2 id="header" align="center"> Hi there, I'm Govind Kumar 👋</h2> 
 <!-- <img align="right" height="250" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /> -->
 
 A passionate frontend developer from India.
@@ -10,7 +10,7 @@ A passionate frontend developer from India.
 
 **Languages:**       
 
-<div style="display: flex; flex-direction: row; align-items: center;"> 
+<div align="center"> 
     <a href="https://www.java.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
     </a>
@@ -43,7 +43,7 @@ A passionate frontend developer from India.
 **Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/g3vind) | [Twitter](https://twitter.com/g3vind) | [Instagram](https://www.instagram.com/govindxingh/)
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3vind&layout=compact&theme=" alt="g3vind" />
+<img align="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3vind&layout=compact&theme=" alt="g3vind" />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=g3vind&theme=" alt="g3vind" /></p>
 <!-- <div align="center">
