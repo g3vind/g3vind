@@ -16,17 +16,29 @@
     <a href="https://www.instagram.com/govindxingh">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+    <a href="https://govind-kumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Website"/>
+  </a>
+    <a href="mailto:g3vind@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
-<div id="header" align="center" height="110px" width="80px">
+<!-- <div id="header" align="center" height="110px" width="80px">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="500" height="350"/>
+</div> -->
+<div align="center">
+   <h2>A passionate frontend developer from India.</h2>
+   
+   
 </div>
-A passionate frontend developer from India.
 
-- 🌱 I’m currently learning **ReactJs** and **Redux Toolkit**   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://govind-kumar.netlify.app/) 
-- 📫 How to reach me: [My Email](mailto:g3vind@gmail.com)
 
-**Languages:**       
+
+
+
+
+
+<h3 align="center">Languages Tools,, Libraries & Framweworks</h3> 
 
 <div align="center"> 
     <a href="https://www.java.com">
