@@ -77,16 +77,15 @@
 
 <h1></h1>
 <!-- HTML -->
-<div align="center">
+<!-- <div align="center">
   <!-- Spotify -->
-   <p>Currently Listening to🎧</p>
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile">
-</a>
+<!--    <p>Currently Listening to🎧</p>
+<!--  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&redirect=true"> -->
+<!--     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile"> 
+</a> 
+</div> -->
 
-  
-</div>
-<h1></h1>
+
 <!-- Jokes Card -->
  <div align="center">
     <p>Joke of the day😛</p>
