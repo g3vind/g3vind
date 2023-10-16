@@ -37,7 +37,7 @@
 
 
 
-<h3 align="center">Languages Tools, Libraries & Framweworks</h3> 
+<h3 align="center">Languages, Tools, Libraries & Framweworks</h3> 
 
 <div align="center"> 
     <a href="https://www.java.com">
