@@ -92,17 +92,4 @@
      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  </div>
  <h1></h1>
-    <div align="center" ">
-       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@g3vind/62ea3937-e7d7-484a-b316-03dd2553db28.png" /></a>
-    </div>
-    
-   
- 
-
-
-
-
-
-
-
-
+  
