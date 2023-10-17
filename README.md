@@ -59,7 +59,9 @@
 <h1></h1>
 <!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3vind&layout=compact&theme=" alt="g3vind" /> -->
 <!-- GitHub Streak Stats-->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=g3vind&theme=highcontrast&hide_border=true&border_radius=6.6" alt="GitHub Streak" /></a>
+<div align="center">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=g3vind&theme=highcontrast&hide_border=true&border_radius=6.6" alt="GitHub Streak" /></a>
+</div>
 
 
 
