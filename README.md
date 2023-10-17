@@ -77,13 +77,13 @@
 
 <h1></h1>
 <!-- HTML -->
-<!-- <div align="center">
+<div align="center">
   <!-- Spotify -->
-<!--    <p>Currently Listening to🎧</p>
-<!--  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&redirect=true"> -->
-<!--     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile"> 
+      <p>Currently Listening to🎧</p>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&redirect=true"> 
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31arpot7pba5g7e6kje5qgt5ogp4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile"> 
 </a> 
-</div> -->
+</div>
 
 
 <!-- Jokes Card -->
@@ -92,9 +92,11 @@
      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  </div>
  <h1></h1>
-    <div align="center" height="200px" width="200px">
+    <div align="center" ">
        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@g3vind/62ea3937-e7d7-484a-b316-03dd2553db28.png" /></a>
     </div>
+    
+   
  
 
 
