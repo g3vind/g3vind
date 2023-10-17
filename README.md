@@ -25,7 +25,7 @@
 <!-- <div id="header" align="center" height="110px" width="80px">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="500" height="350"/>
 </div> -->
-<h3 align="left">💻 Languages and Tools :</h3>
+<h3 align="center">💻 Languages and Tools :</h3>
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
