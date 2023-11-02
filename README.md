@@ -3,7 +3,7 @@
 <h1 align="center" color="blue">   
    Hola! 🙋‍♂️ Yo Soy Govind Kumar
 </h1>       
-<h3 align="center">I am a Full Stack Developer👨‍💻 from India </h3>
+<h3 align="center">I am a Full Stack Developer👨‍💻 from India </h3>  
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/g3vind/">
