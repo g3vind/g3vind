@@ -1,5 +1,5 @@
    
-<img align="center" src="https://komarev.com/ghpvc/?username=g3vind&style=flat-square&color=blue" alt="profile views counter"/>
+<img align="center"  src="https://komarev.com/ghpvc/?username=g3vind&style=flat-square&color=blue" alt="profile views counter"/>
 <h1 align="center" color="blue">   
    Hola! 🙋‍♂️ Yo Soy Govind Kumar 
 </h1>         
