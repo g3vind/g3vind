@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/govindxingh">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-    <a href="https://govind-kumar.netlify.app/">
+    <a href="https://g3vind.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Website"/>
   </a>
     <a href="mailto:g3vind@gmail.com">
