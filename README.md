@@ -1,7 +1,7 @@
    
 <img align="center"  src="https://komarev.com/ghpvc/?username=g3vind&style=flat-square&color=blue" alt="profile views counter"/>
 <h1 align="center" color="blue">   
-   Hello 👋, I'm Govind Kumar 
+   Hello 👋, I'm Govind Kumar  
 </h1>          
 <h3 align="center">I'm a Frontend Developer👨‍💻 from India </h3>  
   
