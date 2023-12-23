@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Hi 👋! My name is Govind Kumar and I'm a Frontend Developer, from India 🚀</h2>
 
 ###
