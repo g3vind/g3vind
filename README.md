@@ -1,15 +1,6 @@
-## <div align="center">Hi 🙋‍♂️,I'm Govind, a passionate frontend developer from India 🚀</div>  
+## <div align="center">Hi 🙋‍♂️,I'm Govind Kumar</div>  
+<p align="center"> a passionate frontend developer from India 🚀</p>
   
-
-- 🔭 I’m currently working on [Namaste Food](https://namastefood.vercel.app/)  
-  
-
-- 🌱 I’m currently learning React.js and Redux Toolkit  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 ## Connect with me  
