@@ -1,4 +1,4 @@
-<h2 align="center">Hi!👋 I'm Govind Kumar </h2>
+<h1 align="center">Hi!👋 I'm Govind Kumar </h1>
 <h3 align="center"> A Passionate Frontend Developer, from India 🚀</h3>
 
 <h3 align="center"> Connect With Me </h3>
